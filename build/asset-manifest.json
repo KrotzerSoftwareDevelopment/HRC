@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4df2b9be.chunk.css",
+    "main.js": "./static/js/main.02656a28.chunk.js",
+    "main.js.map": "./static/js/main.02656a28.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.92406e80.js",
+    "runtime-main.js.map": "./static/js/runtime-main.92406e80.js.map",
+    "static/css/2.99a2b36c.chunk.css": "./static/css/2.99a2b36c.chunk.css",
+    "static/js/2.71a7b6da.chunk.js": "./static/js/2.71a7b6da.chunk.js",
+    "static/js/2.71a7b6da.chunk.js.map": "./static/js/2.71a7b6da.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.bdb044e1e662e96fa88935feaa7e48a3.js": "./precache-manifest.bdb044e1e662e96fa88935feaa7e48a3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.99a2b36c.chunk.css.map": "./static/css/2.99a2b36c.chunk.css.map",
+    "static/css/main.4df2b9be.chunk.css.map": "./static/css/main.4df2b9be.chunk.css.map",
+    "static/js/2.71a7b6da.chunk.js.LICENSE.txt": "./static/js/2.71a7b6da.chunk.js.LICENSE.txt",
+    "static/media/Aclonica-Regular.ttf": "./static/media/Aclonica-Regular.5314dab9.ttf",
+    "static/media/Alatsi-Regular.ttf": "./static/media/Alatsi-Regular.22c595c0.ttf",
+    "static/media/OpenFarm.png": "./static/media/OpenFarm.f4b194fa.png",
+    "static/media/bearKayaking.png": "./static/media/bearKayaking.cf19b208.png",
+    "static/media/bearworkingsoftware.png": "./static/media/bearworkingsoftware.e3b24ee0.png",
+    "static/media/bg.png": "./static/media/bg.662301d7.png",
+    "static/media/daphblanket.png": "./static/media/daphblanket.718ce835.png",
+    "static/media/utah1.png": "./static/media/utah1.517df9ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92406e80.js",
+    "static/css/2.99a2b36c.chunk.css",
+    "static/js/2.71a7b6da.chunk.js",
+    "static/css/main.4df2b9be.chunk.css",
+    "static/js/main.02656a28.chunk.js"
+  ]
+}
